@@ -46,6 +46,11 @@ Clone the repository:
 git clone https://github.com/Enugu-Solana-Dev-Cohort/check-wallet-value-Egbujie-Chizoba-Esther.git
 cd check-wallet-value-Egbujie-Chizoba-Esther
 ```
+Go into the project folder:
+
+```bash 
+cd check-wallet-value-Egbujie-Chizoba-Esther
+```
 Install dependencies:
 
 ``` bash
