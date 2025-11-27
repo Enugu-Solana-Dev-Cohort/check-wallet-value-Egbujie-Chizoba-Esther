@@ -36,7 +36,7 @@ It allows users to:
 | **TypeScript** | Strong typing for better development |
 | **@solana/web3.js** | Wallet + blockchain interaction |
 | **@bonfida/spl-name-service** | Domain (.sol) resolution |
-| **CSS** | Styling + animations |
+| **CSS**(with Phantom-inspired theme) | Styling + animations |
 
 ---
 
@@ -44,7 +44,6 @@ It allows users to:
 Clone the repository:
 ``` bash
 git clone https://github.com/Enugu-Solana-Dev-Cohort/check-wallet-value-Egbujie-Chizoba-Esther.git
-cd check-wallet-value-Egbujie-Chizoba-Esther
 ```
 Go into the project folder:
 
@@ -56,15 +55,24 @@ Install dependencies:
 ``` bash
 npm install
 ```
-Run the development server:
+Running the App
+
+Start the development server:
 
 ```bash
-npm run dev
+npm start
 ```
-Build for production:
-```bash 
+
+Open http://localhost:3000 to view it in your browser.
+Run the development server:
+
+🛠 Build for Production
+
+```bash
 npm run build
 ```
+This creates an optimized production build in the build folder.
+
 ## 💡 How It Works
 
  - ✔ User enters a Solana wallet address or a .sol domain
